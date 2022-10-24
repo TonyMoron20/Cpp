@@ -1,0 +1,10 @@
+En este programa se incluyen diferentes ejercicios como:
+*Resta
+*Multiplicación
+*Division
+*Potencia
+*Factorial
+*Verificar si un número es primo
+*Verificar si un número es perfecto
+*Verificar si dos numeros son amigos
+*Verificar si un número es guay
